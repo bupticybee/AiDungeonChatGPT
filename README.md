@@ -33,7 +33,7 @@ You can also run it in gui:
 python3 app.py
 ```
 
-this would start the game in a simple GUI，please make sure you have a python version >= 3.9。
+This would start the game in a simple GUI，please make sure you have a python version >= 3.9。
 
 
 # Example Story
