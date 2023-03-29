@@ -3,8 +3,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bupticybee/AiDungeonChatGPT/blob/main/Example.ipynb)
 [![Python3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://img.shields.io/badge/python-3.9-blue.svg)
 
-![storysample](outputs/story.gif)
-
 ## Intruduction
 
 Ai dungeon like game, directly uses openai's ChatGPT api as a storytelling model.
